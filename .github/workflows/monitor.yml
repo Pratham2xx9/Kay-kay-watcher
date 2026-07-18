@@ -1,0 +1,38 @@
+name: Hot Wheels Monitor
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # har 5 min me (GitHub minimum 5 min hi allow karta hai)
+  workflow_dispatch: {}       # "Run workflow" button se manually bhi chala sakte ho
+
+permissions:
+  contents: write            # state file wapas commit karne ke liye chahiye
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run monitor
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: python hotwheels_monitor.py
+
+      - name: Commit updated state file
+        run: |
+          git config user.name "hotwheels-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add seen_products.json
+          git diff --staged --quiet || git commit -m "update state [skip ci]"
+          git push
