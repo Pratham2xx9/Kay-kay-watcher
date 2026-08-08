@@ -51,7 +51,7 @@
   },
   "B0GX5BTKWB": {
     "title": "Hot Wheels",
-    "in_stock": false,
+    "in_stock": true,
     "price": "₹899"
   },
   "B07F6ZBW52": {
@@ -318,5 +318,40 @@
     "title": "Hot Wheels",
     "in_stock": true,
     "price": "₹549"
+  },
+  "B0H51L1BSJ": {
+    "title": "Hot Wheels",
+    "in_stock": true,
+    "price": "₹299"
+  },
+  "B0H51RBCGX": {
+    "title": "Hot Wheels",
+    "in_stock": true,
+    "price": "₹299"
+  },
+  "B0H51WVNKX": {
+    "title": "Hot Wheels",
+    "in_stock": true,
+    "price": "₹299"
+  },
+  "B0H51D8NMW": {
+    "title": "Hot Wheels",
+    "in_stock": true,
+    "price": "₹299"
+  },
+  "B0H44XGHF5": {
+    "title": "Hot Wheels",
+    "in_stock": true,
+    "price": "₹400.22"
+  },
+  "B0GJGD1FXF": {
+    "title": "Hot Wheels",
+    "in_stock": true,
+    "price": "₹899"
+  },
+  "B0H415VDX3": {
+    "title": "Hot Wheels",
+    "in_stock": true,
+    "price": "₹299"
   }
 }
