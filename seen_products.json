@@ -483,5 +483,10 @@
     "title": "Hot Wheels",
     "in_stock": true,
     "price": "₹2,199"
+  },
+  "B0GX1PMNS5": {
+    "title": "Hot Wheels",
+    "in_stock": false,
+    "price": "N/A"
   }
 }
