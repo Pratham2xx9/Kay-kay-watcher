@@ -488,5 +488,15 @@
     "title": "Hot Wheels",
     "in_stock": false,
     "price": "N/A"
+  },
+  "B0CNHWP9HW": {
+    "title": "Hot Wheels",
+    "in_stock": true,
+    "price": "₹1,263"
+  },
+  "B0FHKGT28M": {
+    "title": "Hot Wheels",
+    "in_stock": true,
+    "price": "₹2,099"
   }
 }
