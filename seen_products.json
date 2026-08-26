@@ -11,7 +11,7 @@
   },
   "B0FHKKZ31K": {
     "title": "Hot Wheels",
-    "in_stock": true,
+    "in_stock": false,
     "price": "₹899"
   },
   "B0FHKNBZ8P": {
@@ -498,5 +498,10 @@
     "title": "Hot Wheels",
     "in_stock": true,
     "price": "₹2,099"
+  },
+  "B0DQF9B5QT": {
+    "title": "Hot Wheels",
+    "in_stock": true,
+    "price": "₹439"
   }
 }
