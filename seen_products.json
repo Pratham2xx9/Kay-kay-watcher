@@ -688,5 +688,20 @@
     "title": "Hot Wheels",
     "in_stock": true,
     "price": "₹2,199"
+  },
+  "B0FHKLTSS6": {
+    "title": "Hot Wheels",
+    "in_stock": false,
+    "price": "N/A"
+  },
+  "B0FKZ8ZHLX": {
+    "title": "Amazon Brand – Metal Die Cast 1:37 Vintage Car with Top | Green | Collectible & Durable",
+    "in_stock": true,
+    "price": "₹349"
+  },
+  "B0H3FF2Y6N": {
+    "title": "Storio",
+    "in_stock": true,
+    "price": "₹699"
   }
 }
