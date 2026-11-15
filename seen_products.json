@@ -11,7 +11,7 @@
   },
   "B0FHKKZ31K": {
     "title": "Hot Wheels",
-    "in_stock": false,
+    "in_stock": true,
     "price": "₹899"
   },
   "B0FHKNBZ8P": {
@@ -691,7 +691,7 @@
   },
   "B0FHKLTSS6": {
     "title": "Hot Wheels",
-    "in_stock": false,
+    "in_stock": true,
     "price": "N/A"
   },
   "B0FKZ8ZHLX": {
@@ -703,5 +703,35 @@
     "title": "Storio",
     "in_stock": true,
     "price": "₹699"
+  },
+  "B0F7FKSWPW": {
+    "title": "Storio",
+    "in_stock": true,
+    "price": "₹249"
+  },
+  "B0G8DFLDC7": {
+    "title": "Marvel GO",
+    "in_stock": true,
+    "price": "₹92"
+  },
+  "B0GRGNYR1Y": {
+    "title": "Marvel GO",
+    "in_stock": true,
+    "price": "₹183.35"
+  },
+  "B07JCZN31G": {
+    "title": "Funskool",
+    "in_stock": true,
+    "price": "₹808"
+  },
+  "B0DHSDYGTX": {
+    "title": "LEGO",
+    "in_stock": true,
+    "price": "₹726"
+  },
+  "B0GM7DLTKB": {
+    "title": "Kidsmate",
+    "in_stock": true,
+    "price": "₹899"
   }
 }
