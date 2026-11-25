@@ -701,7 +701,7 @@
   },
   "B0H3FF2Y6N": {
     "title": "Storio",
-    "in_stock": true,
+    "in_stock": false,
     "price": "₹699"
   },
   "B0F7FKSWPW": {
@@ -763,5 +763,25 @@
     "title": "Hot Wheels",
     "in_stock": true,
     "price": "₹1,641.85"
+  },
+  "B0G43R4TD3": {
+    "title": "Hot Wheels",
+    "in_stock": true,
+    "price": "₹1,999"
+  },
+  "B0HCCH14B5": {
+    "title": "Hot Wheels",
+    "in_stock": true,
+    "price": "₹501.98"
+  },
+  "B0FP2CYS24": {
+    "title": "Hot Wheels",
+    "in_stock": true,
+    "price": "₹1,999"
+  },
+  "B0HHJW716P": {
+    "title": "Hot Wheels",
+    "in_stock": true,
+    "price": "₹441"
   }
 }
